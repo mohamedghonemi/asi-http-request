@@ -104,21 +104,21 @@
       }
 
     },
-    {
-
-      "name": "Optimization",
-
-      "source_files": [
-
-        "Classes/ASIHTTPRequest.{h,m}",
-
-        "Classes/ASIFormDataRequest.{h,m}"
-
-      ],
-        
-      "compiler_flags": "-O0"
-
-    },
+//    {
+//
+//      "name": "Optimization",
+//
+//      "source_files": [
+//
+//        "Classes/ASIHTTPRequest.{h,m}",
+//
+//        "Classes/ASIFormDataRequest.{h,m}"
+//
+//      ],
+//        
+//      "compiler_flags": "-O0"
+//
+//    },
       
     {
 
