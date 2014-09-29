@@ -82,7 +82,7 @@
 
       "name": "DisableOptimization",
 
-      "source_files": "Classes/ASIFormDataRequest.m", "Classes/ASIHTTPRequest.m"
+      "source_files": "Classes/ASIFormDataRequest.m"
 
       "compiler_flags" = "-O0"
     
