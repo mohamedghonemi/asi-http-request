@@ -78,13 +78,6 @@
 
     },
 
-    {
-
-      "name": "DisableOptimization",
-
-     
-               
-    },
 
     {
 
@@ -111,7 +104,22 @@
       }
 
     },
+    {
 
+      "name": "Optimization",
+
+      "source_files": [
+
+        "Classes/ASIHTTPRequest.m",
+
+        "Classes/ASIFormDataRequest.m"
+
+      ],
+        
+      "compiler_flags": "-O0"
+
+    },
+      
     {
 
       "name": "CloudFiles",
