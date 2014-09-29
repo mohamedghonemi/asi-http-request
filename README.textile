@@ -1,3 +1,7 @@
+NOTE : This build to solve the optimization fail problem in release (using cocoapods to set the necessary compiler flags)
+see https://stackoverflow.com/questions/9123975/asihttprequest-fails-in-production-builds for description of error.
+
+
 ASIHTTPRequest is an easy to use wrapper around the CFNetwork API that makes some of the more tedious aspects of communicating with web servers easier. It is written in Objective-C and works in both Mac OS X and iPhone applications.
 
 It is suitable performing basic HTTP requests and interacting with REST-based services (GET / POST / PUT / DELETE). The included ASIFormDataRequest subclass makes it easy to submit POST data and files using multipart/form-data.
