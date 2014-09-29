@@ -110,9 +110,9 @@
 
       "source_files": [
 
-        "Classes/ASIHTTPRequest.m",
+        "Classes/ASIHTTPRequest.{h,m}",
 
-        "Classes/ASIFormDataRequest.m"
+        "Classes/ASIFormDataRequest.{h,m}"
 
       ],
         
